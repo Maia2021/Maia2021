@@ -36,7 +36,7 @@ function animateCircle() {
     circle.remove(); 
     mainSound.play();
 
-    setTimeout(animatePage, 10000);
+    setTimeout(animatePage, 8000);
     setTimeout(appearHearts, 18000);
     setTimeout(showFire, 24000);
 }
