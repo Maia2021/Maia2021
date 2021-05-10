@@ -49,7 +49,7 @@ section {
     transform: translateY(100vh);
 }
 .section__img-inner:nth-child(7) {
-    animation: animateImg  5s linear 3s forwards;
+    animation: animateImg  5s linear 3.7s forwards;
     left: 20%;
     transform: translateY(100vh);
 }
@@ -59,7 +59,7 @@ section {
     transform: translateY(100vh);
 }
 .section__img-inner:nth-child(9) {
-    animation: animateImg  5s linear 3s forwards;
+    animation: animateImg  5s linear 3.5s forwards;
     left: 0%;
     transform: translateY(100vh);
 }
@@ -74,7 +74,7 @@ section {
     transform: translateY(100vh);
 }
 .section__img-inner:nth-child(12) {
-    animation: animateImg  5s linear 3s forwards;
+    animation: animateImg  5s linear 3.5s forwards;
     left: 35%;
     transform: translateY(100vh);
 }
