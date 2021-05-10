@@ -375,8 +375,7 @@ section {
         transform: scale(1);
     }
 }
-.circle {
-    border: solid 3px red; 
+.circle { 
     position: relative;
     width: 16vw;
     height: 16vw;
