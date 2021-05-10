@@ -18,11 +18,6 @@ section {
     width: 100%;
     height: 100%;
 }
-/*.section_two {
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-    grid-template-rows: 20% 20% 20% 20% 20%; 
-}*/
 .section__img-inner:nth-child(1) {
     animation: animateImg  5s linear 0s forwards;
     left: 35%;
@@ -381,6 +376,7 @@ section {
     }
 }
 .circle {
+    border: solid 3px red; 
     position: relative;
     width: 16vw;
     height: 16vw;
